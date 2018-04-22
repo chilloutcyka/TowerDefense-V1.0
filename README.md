@@ -1,5 +1,5 @@
 # TowerDefense-V1.0
-Tutorial: 1, Minute: 30
+Tutorial: 1, Minute: 51
 
 
 JEDE ÄNDERUNG MIT ZEITVERMERK HIER EINTRAGEN!!
